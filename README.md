@@ -2,7 +2,7 @@
 
 We are trying to predict when and where the next mosquito that tests positive for the West Nile Virus will show up in the Chicago area.
 
-We have been given data from two weather stations based near the airports in Chicago, when and where the city spray repellent, where the mosquito was caught, what species of mosquito was caught, and where the mosquitos were caught. 
+We have been given data from two weather stations based near the airports in Chicago, when and where the city sprayed repellent, where the mosquitos were caught, what species of mosquitos were caught, and where the mosquitos were caught. 
 
 # We plan to look at: 
 
