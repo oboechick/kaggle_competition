@@ -8,6 +8,7 @@ We have been given data from two weather stations based near the airports in Chi
 
 * How long is the interval between sprays in one area?
 * How does this time period effect the positive or negative result of mosquitos caught in the same trap?
+* What time of year and what type of weather is present when the most mosquitos are caught?
 
 # Out hypotheses are:
 
