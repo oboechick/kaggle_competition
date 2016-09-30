@@ -11,7 +11,7 @@ We have been given data from two weather stations based near the airports in Chi
 * What time of year and what type of weather is present when the most mosquitos are caught?
 * A map of the number of mosquitos and where they were caught.
 
-# Out hypotheses are:
+# Our hypotheses are:
 
 * If the area has been sprayed there will be fewer infected mosquitos.
 * If the weather is hot and wet there will be more mosquitos caught and the possibility of infected mosquitos will increase.
